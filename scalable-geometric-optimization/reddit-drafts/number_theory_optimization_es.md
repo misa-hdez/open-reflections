@@ -1,0 +1,15 @@
+# Una introducción sobre como nació esta idea
+
+Desde hace tiempo he estado trabajando en temas que me agradan. Entre ellos, he estado analizando la unidad como estructura e intentando comprender como emergen los números complejos. Al mismo tiempo, he procurado continuar con mis estudios universitarios con temas enfocados hacia ingeniería química.
+Cuando llego el momento de escribir la tesis asociada a mi carrera universitaria, tuve la oportunidad de trabajar con métodos metaheurísticos para optimización y métodos de control predictivo. En el desarrollo del trabajo, uno de los problemas que afronté fue el no poder replicar los resultados de la técnica de optimización _BAT Algorithm_ sobre algunas de las funciones analizadas en su paper; intentaba replicarlos porque necesitaba entender como funcionaba el método.
+Después de todo, decidí modificar mi propia versión y adaptarlas con ideas provenientes de una version modificada del algoritmo conocida como _Directional BAT Algorithm_ publicada en la literatura y con esta versión modificada trabajar para la escritura de mi tesis
+
+Después de un tiempo de finalizar mi carrera, estaba reflexionando si continuar estudiando o conseguir un mejor empleo. Analizando mi situación de vida, entre mis objetivos fracasados y una mezcla de alcohol, me percaté que ambos trabajos que había estado realizando (la unidad como estructura y el trabajo en optimización) compartían más en común que lo que inicialmente había considerado en trabajos previos
+Y es así que decidí continuar con mis trabajos personales y en lugar de conseguir otro empleo decidí continuar mis estudios en una maestría para tener la versatilidad de seguir desarrollando mis propios trabajos.
+
+Hace aproximadamente dos años, logré sintentizar mis ideas estudiadas y plasmarlas en una versión preliminar de un algoritmo de optimización. Sin embargo, debo mencionar que nunca he sido un buen alumno en la universidad y, como la maestría requería de mayor compromis y yo no estaba ofreciendo mi máximo, decidí compartir mis ideas con mis asesores. Esto fue un éxito y, de hecho, me invitaron a compartir los resultados preliminares de lo que se había logrado en el [AMOAIQ](https://www.amoaiq.com/), un evento sobre optimización en ingeniería química en nuestro país.
+
+A partir de lo último mencionado, internamente empecé a colapsar. Tenía muchas responsabilidades que atender: lidiar con los objetivos y temas de la maestría, mi proyecto en optimización y la unidad como estructura, no los pude unificar en una misma sintonía. Aunque el trabajar con mi proyecto en optimización estaba basado en mis trabajos personales, la visión personal que tenía sobre el proyecto no se alineaba con la visión de la universidad. Al final, perdí mi empleo, dejé la universidad y perdí un poco el sentido sobre las cosas que realizaba.
+
+Sin embargo, un amigo me ha estado apoyando y me ha motivado a continuar con mis trabajos personales. Y ha sido con él con quién he discutido todas mis ideas y le hemos dado forma hasta obtener un marco teórico sólido que a continuación les voy a presentar.
+
